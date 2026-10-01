@@ -4679,3 +4679,6 @@ input, select, textarea {
 		}
 
 	}
+/* QA profile: icon cards */
+#main > .posts > article .icon.major { display:block; font-size:2.5rem; margin-bottom:1rem; color:#18bfef; }
+#main > .posts > article .icon.major:before { font-size:2.5rem; }
